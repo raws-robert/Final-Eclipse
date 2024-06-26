@@ -2,7 +2,7 @@ The install tutorial is here.
 
 # Final-Eclipse
 Hi! this is a quick note before using my first theme.
-This was only ment for vencord (https://vencord.dev). it may work in others. it may not!
+This was only ment for vencord (https://vencord.dev). it will also work in better discord, too. I just dont use better discord so i cant help you on that.
 Its mainly a focus on the background, All the other stuff isnt **needed** its just to make the UI a bit more fresh
 
 ![Screenshot 2024-06-25 211421](https://github.com/raws-robert/Final-Eclipse/assets/172075414/709796b4-bf53-4d42-a4f4-976db132a8b7)
