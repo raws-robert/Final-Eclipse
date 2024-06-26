@@ -11,7 +11,7 @@ Its mainly a focus on the background, All the other stuff isnt **needed** its ju
 # Stats
 Original theme: Frosted Glass
 Copyrighted: Why would you think i copyright this stuff?
-Remixable: Yes, in a way that doesnt just say you made it instead. GIVE ME CREDIT!!!!!!!
+Remixable: Yes, Ofcourse! The code is opensource, i dont actually own the code, its a rebranding of Frosted Glass.
 
 # Preview
 ![image](https://github.com/raws-robert/Final-Eclipse/assets/172075414/bb5c39e1-91f5-409b-b0ed-ee2bcba63c96)
