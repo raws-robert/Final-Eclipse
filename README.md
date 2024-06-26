@@ -20,6 +20,7 @@ Remixable: Yes, in a way that doesnt just say you made it instead. GIVE ME CREDI
 # How to install theme.
 Yeah, its pretty easy.
 First up, go to your user settings and find the Vencord section, then click themes.
+
 ![image](https://github.com/raws-robert/Final-Eclipse/assets/172075414/428bcb9b-c411-4916-bc68-409c8e70e249)
 
 ## Yeah, i add more to this later on. this isnt the final README
