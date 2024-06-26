@@ -20,7 +20,7 @@ this is outdated, the home button should look like an eclipse instead.
 
 # How to install theme.
 Yeah, its pretty easy.
-First up, you want to download the theme, if you dont know where to find the theme, use this link: [https://github.com/raws-robert/Final-Eclipse/main/finaleclipse.theme.css] The download button should be by the top of the file.
+First up, you want to download the theme, if you dont know where to find the theme, use this link: [https://github.com/raws-robert/Final-Eclipse/blob/main/finaleclipse.theme.css] The download button should be by the top of the file.
 Open file explorer and go to downloads, and copy the downloaded css file.
 Now, find your way to discord and then go to your user settings and find the Vencord section, then click themes.
 
