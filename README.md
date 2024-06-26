@@ -10,5 +10,9 @@ Original theme: Frosted Glass
 Copyrighted: Why would you think i copyright this stuff?
 Remixable: Yes, in a way that doesnt just say you made it instead. GIVE ME CREDIT!!!!!!!
 
+# Preview
+![image](https://github.com/raws-robert/Final-Eclipse/assets/172075414/bb5c39e1-91f5-409b-b0ed-ee2bcba63c96)
+
+
 
 ## Yeah, i add more to this later on. this isnt the final README
