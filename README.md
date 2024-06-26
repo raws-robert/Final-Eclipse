@@ -1,3 +1,5 @@
+The install tutorial is here.
+
 # Final-Eclipse
 Hi! this is a quick note before using my first theme.
 This was only ment for vencord (https://vencord.dev). it may work in others. it may not!
@@ -14,7 +16,7 @@ Remixable: Yes, in a way that doesnt just say you made it instead. GIVE ME CREDI
 ![image](https://github.com/raws-robert/Final-Eclipse/assets/172075414/bb5c39e1-91f5-409b-b0ed-ee2bcba63c96)
 
 
-#How to install theme.
-
+# How to install theme.
+Yeah, its pretty easy.
 
 ## Yeah, i add more to this later on. this isnt the final README
