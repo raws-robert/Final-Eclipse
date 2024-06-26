@@ -14,5 +14,7 @@ Remixable: Yes, in a way that doesnt just say you made it instead. GIVE ME CREDI
 ![image](https://github.com/raws-robert/Final-Eclipse/assets/172075414/bb5c39e1-91f5-409b-b0ed-ee2bcba63c96)
 
 
+#How to install theme.
+
 
 ## Yeah, i add more to this later on. this isnt the final README
