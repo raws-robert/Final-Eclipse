@@ -14,6 +14,7 @@ Copyrighted: Why would you think i copyright this stuff?
 Remixable: Yes, Ofcourse! The code is opensource, i dont actually own the code, its a rebranding of Frosted Glass.
 
 # Preview
+this is outdated, the home button should look like an eclipse instead.
 ![image](https://github.com/raws-robert/Final-Eclipse/assets/172075414/bb5c39e1-91f5-409b-b0ed-ee2bcba63c96)
 
 
@@ -26,5 +27,5 @@ Now, find your way to discord and then go to your user settings and find the Ven
 ![image](https://github.com/raws-robert/Final-Eclipse/assets/172075414/428bcb9b-c411-4916-bc68-409c8e70e249)
 
 Next up in the top, click Local Themes. This is a local theme!
-If your on the discord website it should say "Import Theme", Else it should say "Open Themes Folder", Click on which ever button is on your screen. and just click Ctrl + V.
+If your on the discord website it should say "Import Theme", Else it should say "Open Themes Folder", Click on which ever button is on your screen. and just click Ctrl + V when the window pops up.
 You should have the discord theme imported, now just enable it! If you have any issues, or questions, anything like that. my Discord is @jarfix0
