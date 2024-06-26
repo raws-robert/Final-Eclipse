@@ -23,4 +23,5 @@ First up, go to your user settings and find the Vencord section, then click them
 
 ![image](https://github.com/raws-robert/Final-Eclipse/assets/172075414/428bcb9b-c411-4916-bc68-409c8e70e249)
 
-## Yeah, i add more to this later on. this isnt the final README
+Next up in the top, click Online Themes.
+In the textbox, copy ![https://raw.githubusercontent.com/raws-robert/Final-Eclipse/main/finaleclipse.theme.css]! and paste it. And click enter and you shoullddd be all set up, if you encounter issues just dm me on discord. @Jarfix0 and i will be sure to help you!
